@@ -213,7 +213,7 @@ const AssetQuickSearchModal = () => {
           </div>
           <div className="flex justify-end mt-5 mb-[30px]">
             <CustomeButton
-              label="Add to Challenges"
+              label="Add to Challenge"
               classNameContainer="text-black bg-[#C05600] h-10 font-semibold"
               icon={<Plus size={20} />}
             />
